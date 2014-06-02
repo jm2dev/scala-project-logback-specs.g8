@@ -7,3 +7,9 @@ This is a [[https://github.com/n8han/giter8][giter8]] template for removing the 
 - SBT simple confguration for **0.13**, scala **2.11.X** as default, **logback** with **groovy** configurtion and **scalatest** dependencies
 - project **name**, **organization**, **version** ,** scalaVersion**  and dependencies versions are customizable as variables
 - everything in your project's base package imported automatically in repl sessions
+
+* Usage
+
+#+BEGIN_SRC bash
+g8 jm2dev/basic-project.g8
+#+END_SRC
